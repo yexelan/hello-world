@@ -1,2 +1,3 @@
 # hello-world
-test repo
+
+I'm script coder. Power Shell, BASH, PHP etc.
